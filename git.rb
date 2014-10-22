@@ -1,2 +1,3 @@
 puts "Hello World"
-puts "valar dohaeris"
+puts "All men must die"
+puts "All men must serve"
